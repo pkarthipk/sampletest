@@ -1,11 +1,20 @@
 this is sampletest2 user
 added 2nd line
 <<<<<<< HEAD
+added 2nd line
 Edited by test
 
 hjhjhhjjhjh
 =======
 this line added by karthi
+<<<<<<< HEAD
+>>>>>>> 7db9e928cdb40e90b3644a2b277c07d4f7b76ac8]]
+
+welcome to karthi
+
+
+=======
 >>>>>>> 7db9e928cdb40e90b3644a2b277c07d4f7b76ac8
 
 this is my 2nd commit
+>>>>>>> 9664fada29af24e828fc164267b8c370278b0e8e
