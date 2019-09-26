@@ -3,4 +3,6 @@ this is sampletest2 user
 Edited by test
 =======
 this line added by karthi
->>>>>>> 7db9e928cdb40e90b3644a2b277c07d4f7b76ac8
+>>>>>>> 7db9e928cdb40e90b3644a2b277c07d4f7b76ac8]]
+
+welcome to karthi
