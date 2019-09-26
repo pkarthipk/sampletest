@@ -1,4 +1,5 @@
 this is sampletest2 user
+added 2nd line
 <<<<<<< HEAD
 Edited by test
 
