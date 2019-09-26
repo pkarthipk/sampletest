@@ -16,4 +16,6 @@ welcome to karthi
 >>>>>>> 7db9e928cdb40e90b3644a2b277c07d4f7b76ac8
 
 this is my 2nd commit
->>>>>>> 9664fada29af24e828fc164267b8c370278b0e8e
+>>>>>>> 9664fada29af24e828fc164267b8c370278b0e8e\
+
+as;ka;sfkl;
